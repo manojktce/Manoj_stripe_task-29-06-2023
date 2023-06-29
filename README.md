@@ -12,7 +12,7 @@ Download & Folder Location to put this code:
 
 **************************************************************
 
-Change to certain folder in cmd:
+Change to certain folder in cmd: (Run below commands for migrate and seed dummy records)
 
 1) php artisan migrate:reset
 2) php artisan migrate
