@@ -1,5 +1,5 @@
 # Manoj_stripe_task
- Laravel Task with Stripe Payment Gateway Integration
+ Laravel Task with Stripe Payment Gateway Integration (Screenshots Attached)
 
 Steps:
 
