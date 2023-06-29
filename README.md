@@ -14,9 +14,9 @@ Download & Folder Location to put this code:
 
 Change to certain folder in cmd:
 
-php artisan migrate:reset
-php artisan migrate
-php artisan db:seed
+1) php artisan migrate:reset
+2) php artisan migrate
+3) php artisan db:seed
 
 **************************************************************
 
